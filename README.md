@@ -1,3 +1,7 @@
+# What this is
+
+This was an exercise in speeding up loading a web page by optimizing database interactions.
+
 # Welcome to KarmaVille
 
 ## Getting Started
