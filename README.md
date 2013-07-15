@@ -1,6 +1,6 @@
 # What this is
 
-This was an exercise in speeding up loading a web page by optimizing database interactions.
+This was a week 8 DBC exercise in speeding up loading a web page by optimizing database interactions.
 
 # Welcome to KarmaVille
 
